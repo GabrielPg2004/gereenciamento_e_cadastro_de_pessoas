@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762979305 source:c:\users\gabri\desktop\segunda parte n1\gerenciamento de cadastro de pessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
